@@ -1,6 +1,4 @@
 # Decision Tree
-4/19/2018
-Written by Andy Peterson
 
 ## SUMMARY
     This program uses the decision tree learning algorithm to create a binary 
